@@ -1,4 +1,4 @@
-val = int(input("Bir Sayı Giriniz"))
+val = int(input("Enter a Number"))
 c=0
 while val > 1:
     if (val % 2 != 0):
