@@ -1,4 +1,4 @@
-#Even Fibonacci Numbers
+#Even Fibonacci Numbers Sum
 n=4000000
 a, b = 1, 2
 sum=0
