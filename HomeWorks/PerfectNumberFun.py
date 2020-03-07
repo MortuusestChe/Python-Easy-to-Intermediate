@@ -1,4 +1,4 @@
-def mukemmel(n): #mükemmel sayı bulan fonk
+def mukemmel(n): 
     sum = 0
 
     for c in range(1, n - 1):
