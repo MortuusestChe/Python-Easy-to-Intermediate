@@ -1,3 +1,4 @@
+#sum square difference
 c=1
 sumsq=0
 sqsum=0
